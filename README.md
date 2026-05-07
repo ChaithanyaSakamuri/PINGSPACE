@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# PINGSPACE
 
-Talk-a-tive is a Full Stack Chatting App.
+PINGSPACE is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+[https://pingspace.herokuapp.com/](https://pingspace.herokuapp.com)
 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally

@@ -7,6 +7,7 @@ const messageRoutes = require("./routes/messageRoutes");
 const { notFound, errorHandler } = require("./middleware/errorMiddleware");
 const path = require("path");
 
+require('dotenv').config();
 dotenv.config();
 connectDB();
 const app = express();
