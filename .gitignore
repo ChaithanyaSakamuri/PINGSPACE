@@ -24,3 +24,5 @@ yarn-error.log*
 
 # Editor swap files
 *.swp
+
+tempCodeRunnerFile.js
