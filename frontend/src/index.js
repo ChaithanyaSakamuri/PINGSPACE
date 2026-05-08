@@ -6,6 +6,10 @@ import reportWebVitals from "./reportWebVitals";
 import { ChakraProvider } from "@chakra-ui/react";
 import ChatProvider from "./Context/ChatProvider";
 import { BrowserRouter } from "react-router-dom";
+import axios from "axios";
+
+// Set base URL for all API requests
+axios.defaults.baseURL = process.env.REACT_APP_API_URL || "";
 
 ReactDOM.render(
   <ChakraProvider>
